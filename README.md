@@ -1,0 +1,2 @@
+# audiocodec1
+In this project an AudioCoDec was designed, based on the coding of the frequency coefficients of an audio signal. To obtain these coefficients the Fast Fourier Transform (FFT) is applied. The coding of these coefficients is mapped using a scaling technique, based on the operation of fixed-point arithmetic. A prototype of the algorithm is made in MATLAB, then ported to C++ and executed on two different processors.
